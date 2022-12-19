@@ -9,7 +9,7 @@ To render the files in your browser.
 run npm start at the root folder
 
 ### `Click on Website-Image`
-[https://github.com/Lawi365/carlpay/final-design-image.png]
+[https://github.com/Lawi365/carlpay/blob/main/final-design-image.png]
 
 To view My implementation
 
